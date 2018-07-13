@@ -1,1 +1,2 @@
-# Python-Projects Introductory Python Projects( Showing skills from basic to advance data structure )
+# Introductory Python Projects( Showing skills from basic to advance data structure )
+1) Furniture_Store
